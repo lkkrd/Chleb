@@ -1,0 +1,14 @@
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.AssemblyInfoInputs.cache
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.AssemblyInfo.cs
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.csproj.CoreCompileInputs.cache
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\bin\Debug\net8.0\Chleb.exe
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\bin\Debug\net8.0\Chleb.deps.json
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\bin\Debug\net8.0\Chleb.runtimeconfig.json
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\bin\Debug\net8.0\Chleb.dll
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\bin\Debug\net8.0\Chleb.pdb
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.dll
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\refint\Chleb.dll
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.pdb
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\Chleb.genruntimeconfig.cache
+C:\Users\Guest\Desktop\Kodowanko\c-sharp\Chleb\Chleb\obj\Debug\net8.0\ref\Chleb.dll
